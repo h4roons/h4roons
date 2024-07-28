@@ -1,4 +1,4 @@
-# Hi there, I'm Haroon 👋
+# Hi there, I'm Haroon Sohail 👋
 
 ![Profile Banner](https://source.unsplash.com/random/1600x400) <!-- Replace with your own banner image URL -->
 
@@ -6,10 +6,10 @@
 
 I'm a passionate developer with a knack for making projects fun and engaging. My journey includes leading the Google Developer Student Clubs (GDSC), organizing industrial tours, and honing my skills in photography, media, and marketing. I'm also deeply involved in Unity and game development.
 
-- 🔭 I’m currently working on a React Native app that fetches and displays Ahadees in English.
+- 🔭 I’m currently working in React Native and Unity.
 - 🌱 I’m exploring advanced features in Redux Toolkit and Unity game development.
 - 💬 Ask me about app development, game development, marketing, or photography!
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: https://www.linkedin.com/in/h4roons/
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Technologies & Tools
@@ -24,38 +24,18 @@ I'm a passionate developer with a knack for making projects fun and engaging. My
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 
-## 🎨 Projects
-
-### Ahadees App
-A React Native app that fetches and displays Ahadees in English.
-
-![Project Screenshot](https://source.unsplash.com/random/800x400) <!-- Replace with your own project image URL -->
-
-### Unity Game Development
-Working on various projects in Unity, ranging from simple 2D games to complex 3D environments.
-
-![Project Screenshot](https://source.unsplash.com/random/800x400) <!-- Replace with your own project image URL -->
-
-### Industrial Tours & Mock Interviews
-Organized 10 industrial tours and mock interviews to bridge the gap between students and the software industry.
-
-![Event Photo](https://source.unsplash.com/random/800x400) <!-- Replace with your own event image URL -->
-
 ## 🌟 Achievements
 
 - 🏆 GDSC Lead
-- 🎓 Graduated from Google Developer Student Clubs
-- 🏅 Attended Google I/O Extended Cloud Lahore 2024
+- 🏆 Rookie Game Jam 2022 Outstanding Environment - Award
+- 🏆 PUCON'23 Game Design Jam Runner up
 
-## 📸 Photography
-
-![Photography](https://source.unsplash.com/random/800x400) <!-- Replace with your own photography image URL -->
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/h4roons/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4roons/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/h4roons/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ## 💡 Fun Fact
