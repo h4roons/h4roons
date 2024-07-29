@@ -1,6 +1,5 @@
 # Hi there, I'm Haroon Sohail 👋
 
-![Profile Banner](https://source.unsplash.com/random/1600x400) <!-- Replace with your own banner image URL -->
 
 ## About Me
 
