@@ -1,5 +1,6 @@
 # Hi there, I'm Haroon Sohail 👋
 
+https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg
 
 ## About Me
 
