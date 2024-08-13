@@ -1,6 +1,6 @@
 # Hi there, I'm Haroon Sohail 👋
 
-https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 ## About Me
 
